@@ -1,3 +1,3 @@
 # apna-college
 <br>
-author-komal sharma
+author-komal sharma(apna college)
